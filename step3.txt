@@ -1,0 +1,1 @@
+Showing that the file was staged, committed with a message, and synced.
